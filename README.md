@@ -3,8 +3,11 @@
 I am Jai Parwani and it looks like you are finding my repositories useful.
 
 🔭 I’m currently working on game dev in python.
+
 💬 Ask me about anything, i don't charge for advice yet.
+
 📫 Reach me at jaiparwani4@gmail.com
+
 ⚡ Fun fact: you are going to die, so live while you can.
 
 
